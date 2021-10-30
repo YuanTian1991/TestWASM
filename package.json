@@ -1,0 +1,12 @@
+{
+  "name": "@YuanTian1991/TestWASM",
+  "version": "2.0.0",
+  "description": "Test WASM",
+  "license": "MIT",
+  "repository": "YuanTian1991/TestWASM",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "package"
+  ]
+}
